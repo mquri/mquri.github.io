@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mquri.csgad.com/yQY/sitemap.xml.gz
